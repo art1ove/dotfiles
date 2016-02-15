@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Applications/cDock.app/Contents/Resources/support/themes'
+let g:netrw_dirhist_2='/Applications/cDock.app/Contents/Resources/support/themes/Dark'
+let g:netrw_dirhist_3='/Applications/cDock.app/Contents/Resources/support/themes/HUD'
+let g:netrw_dirhist_4='/Applications/cDock.app/Contents/Resources/support/themes'
+let g:netrw_dirhist_5='/Applications/cDock.app/Contents/Resources/support/themes/HUD'
